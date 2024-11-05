@@ -1,7 +1,7 @@
 using System;
 using System.Diagnostics;
 
-namespace TshirtSpace 
+namespace TshirtSpace  
 {
     class Tshirt {
         static string Size(int cms) {
