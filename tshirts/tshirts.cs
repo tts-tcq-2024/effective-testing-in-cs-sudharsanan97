@@ -12,11 +12,5 @@ namespace TshirtSpace {
                 return "L";
             }
         }
-        static void Main(string[] args) {
-            Debug.Assert(Size(37) == "S");
-            Debug.Assert(Size(40) == "M");
-            Debug.Assert(Size(43) == "L");
-            Console.WriteLine( "All is well (maybe!)");
-        }
     }
 }
